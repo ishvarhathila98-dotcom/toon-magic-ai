@@ -1,2 +1,1 @@
-# toon-magic-ai
-ai
+index.html
